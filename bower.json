@@ -1,5 +1,5 @@
 {
-  "name": "library-boilerplate",
+  "name": "knockout-url-input",
   "version": "0.1.0",
   "homepage": "https://github.com/esbenp/library-boilerplate",
   "license": "Apache 2.0",
@@ -11,7 +11,7 @@
     "tests"
   ],
   "dependencies": {
-    
+    "knockout": "~3.3.0"
   },
   "devDependencies": {
     "requirejs": "~2.1.16"
